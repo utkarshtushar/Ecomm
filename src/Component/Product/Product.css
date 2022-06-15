@@ -1,0 +1,11 @@
+.pd-image:hover {
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+}
+
+.pd-image {
+  -webkit-transition: all 0.5s linear;
+  transition: all 0.5s linear;
+  cursor: pointer;
+}
+/*# sourceMappingURL=Product.css.map */

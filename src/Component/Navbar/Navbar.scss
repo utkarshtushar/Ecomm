@@ -1,0 +1,9 @@
+$backgroudnColor: orange;
+
+#menu-toggle:checked + #menu{
+    display: block;
+}
+
+.shopping-icon{
+   color:$backgroudnColor;
+}

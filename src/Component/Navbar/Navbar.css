@@ -1,0 +1,8 @@
+#menu-toggle:checked + #menu {
+  display: block;
+}
+
+.shopping-icon {
+  color: orange;
+}
+/*# sourceMappingURL=Navbar.css.map */

@@ -1,0 +1,17 @@
+
+  .row {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+  }
+
+  .col-9 {
+    width: 75%;
+  }
+
+  @media (max-width: 765px) {
+
+    .col-9 {
+      width: 100%;
+    } 
+  }
